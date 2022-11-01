@@ -47,11 +47,11 @@
       },
       "locked": {
         "dir": "0_1_1",
-        "lastModified": 1667329842,
-        "narHash": "sha256-bZhfyT+7hPSm2rix2HlNbp0r2vAIvf+mGeyw8EKeg+Q=",
+        "lastModified": 1667334697,
+        "narHash": "sha256-dZq61OUH5Ac/7lchv30O/G/BAtJ6Y8q6Mu5BdrpxCJM=",
         "owner": "nim-nix-pkgs",
         "repo": "openal",
-        "rev": "7468b732986758e73c45aee704f50b90a9d3300f",
+        "rev": "e991eac69769583d2162915ef68e717a684b5967",
         "type": "github"
       },
       "original": {
